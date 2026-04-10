@@ -1,0 +1,63 @@
+[
+  {
+    "value": "headphones",
+    "synonyms": [
+      "headphones",
+      "headset",
+      "wireless",
+      "headfones",
+      "phones",
+      "fones",
+      "headphone"
+    ]
+  },
+  {
+    "value": "smartwatch",
+    "synonyms": [
+      "smartwatch",
+      "watch",
+      "smart watch",
+      "smart",
+      "digital watch",
+      "digitalwatch"
+    ]
+  },
+  {
+    "value": "keyboard",
+    "synonyms": [
+      "keyboard",
+      "megical keyboard",
+      "key board",
+      "keybord"
+    ]
+  },
+  {
+    "value": "mouse",
+    "synonyms": [
+      "mouse",
+      "gaming mouse",
+      "gamingmouse",
+      "mose"
+    ]
+  },
+  {
+    "value": "speaker",
+    "synonyms": [
+      "speaker",
+      "bluthoothspeaker",
+      "blutooth",
+      "blutoothspeaker",
+      "bluetouthspeaker",
+      "bluetooth speaker"
+    ]
+  },
+  {
+    "value": "laptop stand",
+    "synonyms": [
+      "laptop stand",
+      "stand",
+      "laptopstand",
+      "laptop assecories"
+    ]
+  }
+]

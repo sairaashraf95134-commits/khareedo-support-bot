@@ -1,0 +1,54 @@
+[
+  {
+    "id": "7c8d2121-d325-4e1f-bd64-432903a698b2",
+    "data": [
+      {
+        "text": "what is your exchange policy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7c915c2d-cf23-4ee1-aba9-3656850aeedd",
+    "data": [
+      {
+        "text": "please guide me about return policy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7191bb17-fe00-43e5-b9c3-fa35ffb6c2c7",
+    "data": [
+      {
+        "text": "sure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3594cb5e-a6ae-4150-9a0a-cf7c9383fcc2",
+    "data": [
+      {
+        "text": "yes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

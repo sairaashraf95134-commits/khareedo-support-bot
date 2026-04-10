@@ -1,0 +1,42 @@
+{
+  "id": "0e854bf5-4c23-4232-b1b3-0c69a18b266f",
+  "name": "Shipping",
+  "auto": true,
+  "contexts": [
+    "awaiting_shipping"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "awaiting_return",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "We offer delivery within 3–5 workdays days nationwide.\nStandard shipping charges are Rs.300.\n\nWould you like to know our return policy?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

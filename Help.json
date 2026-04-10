@@ -1,0 +1,55 @@
+{
+  "id": "a4e2f806-0f41-4685-b8c9-463454abf3bf",
+  "name": "Product Inquiry",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "awaiting_pricing",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "964ef844-1567-42e8-b133-fdc040efb919",
+          "name": "Product",
+          "required": false,
+          "dataType": "@Product",
+          "value": "$Product",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "We currently offer premium tech gadgets including headphones, smartwatches, keyboards, gaming mouse, speakers, and laptop stands.\n\nWould you like pricing information for any product?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

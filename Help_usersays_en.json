@@ -1,0 +1,97 @@
+[
+  {
+    "id": "4a9bc922-d10e-4d54-a630-e3135afc7b39",
+    "data": [
+      {
+        "text": "i want ",
+        "userDefined": false
+      },
+      {
+        "text": "Product",
+        "meta": "@Product",
+        "alias": "Product",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3800cd19-744f-4a05-8397-2a0226e50967",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "Product",
+        "meta": "@Product",
+        "alias": "Product",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "33bbe949-9b68-4e51-a50e-9f20f7262b55",
+    "data": [
+      {
+        "text": "show me ",
+        "userDefined": false
+      },
+      {
+        "text": "Product",
+        "meta": "@Product",
+        "alias": "Product",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f1e244b-7342-41d2-b1a9-bd7a2c0a2adb",
+    "data": [
+      {
+        "text": "tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "Product",
+        "meta": "@Product",
+        "alias": "Product",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "79a16349-49f6-4852-abc2-e9c5d5170ddb",
+    "data": [
+      {
+        "text": "Do you have ",
+        "userDefined": false
+      },
+      {
+        "text": "Product",
+        "meta": "@Product",
+        "alias": "Product",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "id": "e930befb-fbe7-4a46-a61f-669261ff80ed",
+  "name": "Pricing",
+  "auto": true,
+  "contexts": [
+    "awaiting_pricing"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "awaiting_shipping",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Our product prices range between Rs.1k and Rs.5k depending on the product.\n\nWould you like shipping information as well?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

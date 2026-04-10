@@ -1,0 +1,50 @@
+{
+  "id": "d1cfa016-a6b0-4eaa-b15a-2915bbe6224c",
+  "name": "Contact Information",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e796ff2e-62af-4cd8-b213-03d38888e6e2",
+          "name": "product",
+          "required": false,
+          "dataType": "@Product",
+          "value": "$product",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You can contact us at:\n📧 support@khareedo.com\n📞 +92 321 1234567\n🏢Shop #12, Hafiz Centre, Main Boulevard, Gulberg III, Lahore, Pakistan"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

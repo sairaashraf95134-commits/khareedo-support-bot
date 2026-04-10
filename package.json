@@ -1,0 +1,80 @@
+[
+  {
+    "id": "da3f60ea-8346-4f4f-bd6a-2b1133cbb8d2",
+    "data": [
+      {
+        "text": "tell me the cost",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4bfcf174-ebb9-4e57-a571-d89db5e4dee3",
+    "data": [
+      {
+        "text": "price please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b61f516b-f20e-4bbf-b657-93d2830bd275",
+    "data": [
+      {
+        "text": "how much is",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b9821bbc-61fe-4c1a-bce2-f1852e1234a4",
+    "data": [
+      {
+        "text": "how much is it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2d142107-485f-4507-a414-39197b0ba402",
+    "data": [
+      {
+        "text": "what is the price",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "09de19f1-5f93-43a6-aabc-e9ca91101878",
+    "data": [
+      {
+        "text": "pricing info",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

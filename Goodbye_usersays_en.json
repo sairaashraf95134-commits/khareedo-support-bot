@@ -1,0 +1,41 @@
+[
+  {
+    "id": "5895ab75-ce28-476d-8f22-b0c60a8f230c",
+    "data": [
+      {
+        "text": "please give me the shipping details",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b7440ec3-ca60-421c-a4d7-9986ecaa3876",
+    "data": [
+      {
+        "text": "sure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "979f10bc-d24e-44ee-be79-275ad2c750fe",
+    "data": [
+      {
+        "text": "yes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
